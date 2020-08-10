@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(226, 244, 250);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+header{
+    background-color: rgb(241, 206, 142);
+}
+#table{
+    height: 150;
+    width: 150;
+}
+.zone3{
+    text-align: center;
+}
+.activites{
+    text-align: center;
+}
+.apropos{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    font-style: oblique;
+}
+.copyr{
+    height: 200px;
+    background-color: tomato;
+    width: 100%;
+}
+.HD{
+    float: left;
+    text-align: left;
+    width: 30%;
+}
+.C{
+    float: left;
+    text-align: center;
+    width: 40%;
+}
+.A{
+    float: left;
+    text-align: right;
+    width: 30%;
+}
